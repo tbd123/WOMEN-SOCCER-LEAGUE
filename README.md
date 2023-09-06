@@ -3,7 +3,7 @@ WOMEN SOCCER LEAGUE
 
 ![descarga](https://github.com/tbd123/WOMEN-SOCCER-LEAGUE/assets/23295433/72843533-58f2-4348-bdc3-23bc1e2fe9b9)
 
-´´´´ java 
+```java
 
 package nivelespoderapp;
 import javax.swing.*;
@@ -53,7 +53,6 @@ public class NivelesPoderApp extends JFrame {
         });
     }
 }
-
-´´´´
+```
 
 
